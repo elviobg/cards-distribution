@@ -1,5 +1,7 @@
 # Estatísticas de distribuição de cartas
 
+Este projeto faz parte dos projetos disponiveis no nanodegree de Fundamentos de Data Science II da Udacity
+
 Este projeto trabalha com conhecimentos em estatística descritiva, realizando uma experiência que lida com a distribuição de um baralho de cartas, e criando uma anotação com suas descobertas.
 
 Esta experiência exigirá o uso de um baralho padrão de cartas. Este é um baralho de cinquenta e duas cartas dividido em quatro naipes (espadas (♠), copas (♥), ouros (♦) e paus (♣)), cada naipe contendo treze cartas (Ás, cartas numeradas de 2-10, e cartas figuradas Valete, Dama e Rei). 
